@@ -6,8 +6,8 @@ Inaccurate or noisy labels have a huge impact on the training of deep learning m
 
 This repository contains corrected datasets from our research paper "RSMT: Robust stereo matching training with geometric correction, clean pixel selection and loss weighting":
 
-(1) Inaccurate-label stereo matching datasets US3D(E) and WHU(E) based on raw datasets.
-(2) Accurate-label stereo matching datasets US3D(E) and WHU(E) based on raw datasets. (Although there are still very small residual errors, this version can already be used for accurate evaluation of various studies. We are conducting a study to provide an almost completely accurate satellite image stereo matching dataset, and the upgraded clean dataset is awaited.)
+- **Inaccurate-label stereo matching datasets US3D(E) and WHU(E) based on raw datasets**：Raw paper.
+- **Accurate-label stereo matching datasets US3D(C) and WHU(C) based on raw datasets** ：Although there are still very small residual errors, this version can already be used for accurate evaluation of various studies. We are conducting a study to provide an almost completely accurate satellite image stereo matching dataset, and the upgraded clean dataset is awaited.
 
 Please find the details below. 
 
