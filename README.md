@@ -2,11 +2,19 @@
 # Dataset Release
 
 ## Overview
-This repository contains the dataset from our research paper "RSMT: Robust stereo matching training with geometric correction, clean pixel selection and loss weighting". Please find the details below.
+Inaccurate or noisy labels have a huge impact on the training of deep learning models. To date, few studies have focused on the label error problem in satellite image stereo matching.
+
+This repository contains corrected datasets from our research paper "RSMT: Robust stereo matching training with geometric correction, clean pixel selection and loss weighting":
+(1) Inaccurate-label stereo matching datasets US3D(E) and WHU(E) based on raw datasets.
+(2) Accurate-label stereo matching datasets US3D(E) and WHU(E) based on raw datasets. (Although there are still very small residual errors, this version can already be used for accurate evaluation of various studies. We are conducting a study to provide an almost completely accurate satellite image stereo matching dataset, and the upgraded clean dataset is awaited.)
+
+Please find the details below. 
 
 ## Dataset Download
-- **Dataset Link**: [Download](https://your-dataset-url-here)
-
+- **Inaccurate-training, accurate-testing**: [Download](https://your-dataset-url-here)
+- **Accurate-training, accurate-testing**: [Download](https://your-dataset-url-here)
+- **Accurate-training, accurate-testing(Upgraded Version)**: cooming soon
+- 
 ## Citation
 If you use this dataset in your research, please cite our paper and other related papers:
 
@@ -24,5 +32,6 @@ author = {Haoxuan Sun and Taoyang Wang and Qian Cheng and Jiaxuan Huang},
 }
 
 ```
+
 
 
