@@ -12,7 +12,7 @@ This repository contains corrected datasets from our research paper "RSMT: Robus
 Please find the details below. 
 
 ## Dataset Download
-Link: cooming soon
+Link: https://pan.baidu.com/s/1iTgCQtYRp5nDt9ZhHim_Jw (wtnm )
 - **inaccurate_train**: training datasets for noisy label training tasks
 - **clean_train**: training datasets for common tasks
 - **clean_test**: testing datasets for common tasks
